@@ -21,7 +21,7 @@ A full-featured backend API built with **Node.js**, **Express**, and **MongoDB**
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yoshoppyglobe-api.git
+git clone https://github.com/yourusername/shoppyglobe-api.git
 cd shoppyglobe-api
 ```
 
@@ -82,12 +82,12 @@ Import the file [`shoppyglobe-thunder-collection-fixed.json`](./shoppyglobe-thun
 
 ## ✅ Sample Screenshots
 
-| Endpoint       | Screenshot                      |
-|----------------|----------------------------------|
-| Register        | 📷 `Screenshot (38).png`         |
-| Login           | 📷 `Screenshot (39).png`         |
-| Get Products    | 📷 `Screenshot (41).png`         |
-| Add to Cart     | 📷 `Screenshot (42).png`         |
+| Endpoint       | Screenshot                                                                 |
+|----------------|----------------------------------------------------------------------------|
+| Register        | ![Register](./screenshots/Screenshot%20(38).png)                                   |
+| Login           | ![Login](./screenshots/Screenshot%20(39).png)                                   |
+| Get Products    | ![Get Products](./screenshots/Screenshot%20(41).png)                                   |
+| Add to Cart     | ![Add to Cart](./screenshots/Screenshot%20(53).png)                                   |
 
 ---
 
@@ -101,7 +101,8 @@ shoppyglobe-api/
 ├── middleware/
 ├── server.js
 ├── .env
-└── README.md
+├── README.md
+└── screenshots/
 ```
 
 ---

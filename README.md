@@ -21,7 +21,7 @@ A full-featured backend API built with **Node.js**, **Express**, and **MongoDB**
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/shoppyglobe-api.git
+git clone https://github.com/MskV0/shoppyglobe_api.git
 cd shoppyglobe-api
 ```
 
@@ -106,7 +106,3 @@ shoppyglobe-api/
 ```
 
 ---
-
-## 📝 License
-
-This project is licensed for educational/demo use.

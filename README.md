@@ -82,14 +82,12 @@ Import the file [`shoppyglobe-thunder-collection-fixed.json`](./shoppyglobe-thun
 
 ## ✅ Sample Screenshots
 
-| Endpoint       | Screenshot                      |
-|----------------|----------------------------------|
-| Register        | 📷 `Screenshot (38).png`         |
-| Login           | 📷 `Screenshot (39).png`         |
-| Get Products    | 📷 `Screenshot (41).png`         |
-| Add to Cart     | 📷 `Screenshot (42).png`         |
+screenshots/
+├── Screenshot (34).png
+├── Screenshot (35).png
+├── Screenshot (36).png
+├── Screenshot (37).png
 
----
 
 ## 📚 Folder Structure
 
